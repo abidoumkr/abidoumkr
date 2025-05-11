@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a young and passionate tech enthusiast from Mo
 I'm not an expert yet, but here are the technologies I'm currently learning or practicing:
 
 - 💻 **Languages:** HTML (good), CSS (learning), Python (basic), JavaScript (soon), Java, C, C++, C#, HolyC (later)
-- 🐧 **Linux & Tools:** Ubuntu, Debian, Kali Linux, Arch, VirtualBox, Apache, Proxmox, Bash, Docker
+- 🐧 **Linux & Tools:** Ubuntu, Debian, Kali Linux, Arch, VirtualBox, Apache, Proxmox, Bash, Docker, Git
 - 🛡️ **Cybersecurity:** Basic knowledge of Metasploit, Nmap, Ffuf, and using HTB Academy
 - 🌐 **Web Development:** I build websites without using CMS, and want to sell websites (e-commerce, blogs, portfolios, etc.)
 
