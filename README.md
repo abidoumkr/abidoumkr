@@ -12,10 +12,12 @@ I'm not an expert yet, but here are the technologies I'm currently learning or p
 - 🐧 **Linux & Tools:** Ubuntu, Debian, Kali Linux, Arch, VirtualBox, Apache, Proxmox, Bash, Docker, Git
 - 🛡️ **Cybersecurity:** Basic knowledge of Metasploit, Nmap, Ffuf, and using HTB Academy
 - 🌐 **Web Development:** I build websites without using CMS, and want to sell websites (e-commerce, blogs, portfolios, etc.)
+- 🔌 **Arduino / ESP32 / Raspberry Pi**
+
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals 2025-2026
 
 - Master Linux and understand the command line deeply  
 - Get better in Python and start using useful modules  
@@ -23,6 +25,10 @@ I'm not an expert yet, but here are the technologies I'm currently learning or p
 - Create cool and useful personal projects  
 - Learn C, C++, and C# for software and game dev  
 - Explore OS development with HolyC and TempleOS
+- Have an HTB certificate
+- Create gadgets like the zero pinball machine with boards like the ESP32, Raspberry Pico...
+- Code my own portfolio
+- Read more
 
 ---
 
@@ -31,6 +37,7 @@ I'm not an expert yet, but here are the technologies I'm currently learning or p
 - 🥅 I'm a football fan
 - 🐉 I love **Dragon Ball Z**!
 - 🎵 I'm a big fan of **Freeze Corleone**
+- 🎮 I play Minecraft, Valorant, Gta, Sr...
 
 ---
 
